@@ -1,0 +1,16 @@
+Kevin spoke about our current project: IPAL
+	Progress update from Nick - working on iOS version
+Other scrapped projects: Timmy Global, Moodle Extension
+Past tutorial sessions and Hack-a-thons - need to die down
+Wider array of projects, smaller contributions - more involvement in Open Source
+Documentation of progress - http://54.84.166.72
+Imagine Cup - Open Source?
+Mindy - Student Programming Contest (Morgan Stanley)
+
+Things to do:
+1. Create Github account
+2. Find repos to contribute to
+3. Check out the blog
+4. Facebook group
+5. Check funding status
+6. Wiki?
